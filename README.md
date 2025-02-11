@@ -3,6 +3,8 @@
 ## Overview ⌨️💽
 This repository contains a  report on my custom PC assembly process, including the selected components, step-by-step assembly instructions. 
 
+
+
 ## Components Used
 | Component       |
 |---------------|
@@ -23,6 +25,7 @@ This repository contains a  report on my custom PC assembly process, including t
 5. **Installing the PSU** – Managing cables efficiently.
 6. **Mounting the GPU** – Ensuring PCIe power connections are secure.
 7. **Final Checks** – Verifying connections and booting the system.
+   
 
 
 
